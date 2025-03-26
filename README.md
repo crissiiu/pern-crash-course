@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a full-stack web application built using React for the frontend and Node.js for the backend. It leverages Zustand for state management, PostgreSQL as the database, Express.js for building RESTful APIs, Axios for HTTP requests, and TailwindCSS with DaisyUI for styling.
+This project is a full-stack web application built using React for the frontend and Node.js for the backend. It leverages Zustand for st2ate management, PostgreSQL as the database, Express.js for building RESTful APIs, Axios for HTTP requests, and TailwindCSS with DaisyUI for styling.
 
 ## Tech Stack
 
@@ -40,6 +40,7 @@ Ensure you have the following installed:
    npm install
    cd frontend
    npm install
+
    ```
 3. Create a `.env` file in the backend directory and configure your environment variables:
    ```env
@@ -53,10 +54,12 @@ Ensure you have the following installed:
 5. Start the backend server:
    ```sh
    npm run dev
+
    ```
 6. Start the frontend:
    ```sh
    cd frontend
+
    npm run dev
    ```
 
